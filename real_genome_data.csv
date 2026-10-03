@@ -1,0 +1,10 @@
+gene_symbol,chromosome,mutation_type,expression_score,gc_percent,clinical_significance
+BRCA1,chr17,Pathogenic,88.5,52.4,High Risk Breast/Ovarian
+TP53,chr17,Pathogenic,134.2,61.1,Li-Fraumeni Syndrome
+EGFR,chr7,Gain-of-Function,92.1,49.8,Non-Small Cell Lung Cancer
+MYC,chr8,Overexpression,115.0,59.3,Burkitt Lymphoma
+CFTR,chr7,Pathogenic,14.2,41.5,Cystic Fibrosis
+TNF,chr6,Inflammatory,102.7,56.0,Rheumatoid Arthritis
+APOE,chr19,Risk-Factor,42.8,64.5,Alzheimer Disease
+VEGFA,chr6,Angiogenic,78.9,54.1,Tumor Vascularization
+PTEN,chr10,Loss-of-Function,22.4,43.2,Glioblastoma Risk

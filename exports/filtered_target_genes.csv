@@ -1,0 +1,6 @@
+gene_symbol,chromosome,mutation_type,expression_score,gc_percent,clinical_significance
+BRCA1,chr17,Pathogenic,88.5,52.4,High Risk Breast/Ovarian
+TP53,chr17,Pathogenic,134.2,61.1,Li-Fraumeni Syndrome
+MYC,chr8,Overexpression,115.0,59.3,Burkitt Lymphoma
+TNF,chr6,Inflammatory,102.7,56.0,Rheumatoid Arthritis
+VEGFA,chr6,Angiogenic,78.9,54.1,Tumor Vascularization

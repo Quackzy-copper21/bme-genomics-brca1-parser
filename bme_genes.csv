@@ -1,0 +1,8 @@
+gene_id,gene_name,expression_level,gc_content,associated_disease
+G001,BRCA1,85.4,52.1,Breast Cancer
+G002,TP53,120.1,61.3,Li-Fraumeni Syndrome
+G003,EGFR,45.2,48.7,Lung Cancer
+G004,MYC,110.8,58.9,Burkitt Lymphoma
+G005,CFTR,12.3,41.2,Cystic Fibrosis
+G006,TNF,95.0,55.4,Rheumatoid Arthritis
+G007,APOE,30.1,64.2,Alzheimer Disease
